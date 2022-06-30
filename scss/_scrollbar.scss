@@ -1,0 +1,17 @@
+/* SCROLLBAR PERSONALIZADA */
+::-webkit-scrollbar-track
+{
+	border-radius: 10px;
+	background-color: #000000;
+}
+
+::-webkit-scrollbar
+{
+	width: 8px;
+}
+
+::-webkit-scrollbar-thumb
+{
+	border-radius: 10px;
+	background-color: #fff;
+}
